@@ -1,6 +1,5 @@
 import numpy
 import matplotlib.pyplot as plt
-import pandas as pd
 
 # matrix representaiton of the graph
 graph = numpy.array([[0, 0, 1, 0, 0, 1, 1, 0, 1, 0],
